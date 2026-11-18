@@ -1,0 +1,17 @@
+{
+  "name": "Pok\u00e9dex Maker",
+  "short_name": "Pok\u00e9dex",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10131c",
+  "theme_color": "#e63946",
+  "description": "Your own Pok\u00e9mon collection and Pok\u00e9dex.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
